@@ -22,13 +22,14 @@ Basicamente uma tela de um blog, contento as funcionalidades de escrever um come
 
 ```bash
 # Clone este repositório
-$ git clone 
-# Acesse a pasta do projeto no seu terminal/cmd
-$ cd 
+$ git clone https://github.com/LucimaraSouzah/frontendChallenge
+# Abra a pasta frontendChallenge 
 # Abra arquivo principal na seu browser, ou atravez do comando
 $ google-chrome index.html
 ```
-Ou apenas click aqui para executar a aplicação --> [link]
+
+Ou apenas click aqui para executar a aplicação --> https://lucimarasouzah.github.io/frontendChallenge/
+
 ---
 
 ## 🛠 Tecnologias
