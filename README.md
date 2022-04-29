@@ -12,7 +12,7 @@
 
 ## 💻 Sobre o projeto
 
-Basicamente uma tela de um blog, contento as funcionalidades de escrever um comentário e enviá-lo, sendo responsivo. 
+Basicamente uma tela de um blog, contendo as funcionalidades de escrever um comentário e enviá-lo e sendo responsivo. 
 
 ---
 
